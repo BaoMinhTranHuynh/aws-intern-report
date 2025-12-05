@@ -18,42 +18,39 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Học tại văn phòng. <br> - Tìm hiểu Module 03 – Amazon EC2: <br>  + AMI / Backup / Key Pair. <br>  + Lưu trữ EBS. <br>  + User Data. <br>  + Metadata. | 06/10/2025 | 06/10/2025 | Youtube: AWS Cloud Journey |
+| 3 | - Tiếp tục nghiên cứu về EC2: <br>  + Auto Scaling. <br>  + EFS / FSx. <br>  + Lightsail. <br>  + Dịch vụ Migration MGN. | 07/10/2025 | 07/10/2025 | Youtube: AWS Cloud Journey |
+| 4 | - Học tại văn phòng. <br> - Dịch và chỉnh sửa nội dung kỹ thuật từ AWS Blog. | 08/10/2025 | 08/10/2025 | Youtube: AWS Cloud Journey |
+| 5 | - Tìm hiểu Dịch vụ lưu trữ trên AWS: <br>  + S3. <br>  + Storage Gateway. <br>  + Snow Family. <br>  + Khôi phục sau thảm họa (Disaster Recovery). <br>  + AWS Backup. <br> - Hoàn thành và rà soát lại các bài blog đã dịch. | 09/10/2025 | 11/10/2025 | Youtube: AWS Cloud Journey |
+| 6 | - Tiếp tục Module 04 – Lưu trữ & S3: <br>  + Access Point. <br>  + Storage Class. <br>  + Website tĩnh bằng S3 & CORS. <br>  + Quản lý truy cập. <br>  + Object Key & Hiệu năng. <br>  + Lưu trữ lạnh Glacier. | 10/10/2025 | 12/10/2025 | Youtube: AWS Cloud Journey |
 ### Kết quả đạt được tuần 5:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ 2 (6/10/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Thực hành chuyên sâu với Amazon EC2: tạo và tùy chỉnh cấu hình instance.     
+- Làm chủ các khái niệm AMI, EBS, User Data, Meta Data.        
+- Thiết lập Key Pair để đăng nhập an toàn vào máy ảo.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ 3 (7/10/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Tiếp thu kiến thức về Auto Scaling (Tự động mở rộng) của EC2. 
+- Tìm hiểu các giải pháp lưu trữ phân tán bổ sung: EFS, FSx.      
+- Phân tích Lightsail và dịch vụ di trú MGN.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ 4 (8/10/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+- Học tập tại văn phòng.       
+- Thực hiện dịch và biên tập blog AWS.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ 5 (9/10/2025):**
+
+ - Phân tích nhóm Dịch vụ Lưu trữ (Storage Services):           + Amazon S3: Tạo vùng chứa (bucket), tải đối tượng, cấu hình ACL, Bucket Policy, CORS, và Static Website Hosting.               + Amazon Storage Gateway: Phương pháp liên kết dữ liệu nội bộ (on-premises) với AWS.               + AWS Snow Family: Giải pháp vận chuyển dữ liệu quy mô lớn.               + AWS Backup: Giải pháp sao lưu và phục hồi tập trung.               + Kế hoạch Khôi phục Thảm họa (Disaster Recovery - DR) trên AWS.          
+ - Hoàn tất việc dịch thuật và kiểm tra chất lượng blog.
+
+* **Thứ 6 (10/10/2025):**
+
+ - Tiếp tục nghiên cứu Module 04: Access Point và Storage Class trên S3. 
+ - Thực hành cấu hình Static Website Hosting và thiết lập CORS trên S3.
+ - Nắm vững Object Key, tối ưu hiệu suất lưu trữ, và sử dụng Glacier cho lưu trữ lạnh.
 
 

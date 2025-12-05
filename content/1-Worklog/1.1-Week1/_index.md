@@ -18,40 +18,49 @@ pre: " <b> 1.1. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 09/08/2025 | 09/08/2025      |https://cloudjourney.awsstudygroup.com/<br>            https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i
-| 3   | - Do lab exercise in module 1 <br> - Create AWS Free Tier account <br> - Planning for 1st site project, setup github and init Project <br> - Preparing Hugo for Worklog <br> - Setup Github for auto deploy when I push to my report project repo <br> - Setup with Virtual MFA device <br> - Create admin group and admin user <br>                                              | 09/10/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> <br> https://baominhtranhuynh.github.io/aws-intern-report|
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 09/10/2025 | 09/10/2025      | <https://cloudjourney.awsstudygroup.com/> <br>  https://baominhtranhuynh.github.io/aws-intern-report |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 09/11/2025 | 09/11/2025      | <https://cloudjourney.awsstudygroup.com/> <br> https://cloudjourney.awsstudygroup.com/<br>            https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 09/12/2025 | 09/14/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Get to know **FCJ members**. <br> - Read and note the rules and regulations of the internship unit.                                                                                                  | 08/09/2025  | 09/09/2025      |
+| 3   | - Learn about **Cloud Computing**.               | 09/10/2025 | 08/12/2025      | 
+| 4   | - Do lab exercise in module 1 <br> - Create AWS Free Tier account <br> - Planning for 1st site project, setup github and init Project <br> - Preparing Hugo for Worklog <br> - Setup Github for auto deploy when I push to my report project repo <br> - Setup with Virtual MFA device <br> - Create admin group and admin user <br>  | 09/10/2025 | 09/10/2025      | <https://cloudjourney.awsstudygroup.com/> <br>  https://baominhtranhuynh.github.io/aws-intern-report |
+| 5   |Study essential VPC components <br>  + Subnets <br>  + Route tables <br>  + Security groups and network security <br> - Watch AWS Lab 1 tutorial <br> | 09/11/2025 | 09/11/2025      | <https://cloudjourney.awsstudygroup.com/> <br> https://cloudjourney.awsstudygroup.com/<br>            https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 6   | - Continue learning about **Cloud Computing** on YouTube.                                                                                    | 09/12/2025 | 09/14/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
 
-### Week 1 Achievements:
+### Week 1 Achievements
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Monday (08/09/2025):**
 
-* Successfully created and configured an AWS Free Tier account.
+   - Connected and got acquainted with members of the **First Cloud Journey (FCJ)**.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+   - Read, took notes, and understood the **rules and regulations** of the internship unit.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* **Tuesday (09/09/2025):**
 
-* Used AWS CLI to perform basic operations such as:
+   - Studied and understood the basic concepts of **Cloud Computing**.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* **Wednesday (10/09/2025):**
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+   - Go to the office for studying.
+
+   - Attended the internship office and got familiar with the working environment.
+
+   - Continued learning about **Cloud Computing**.
+
+   - First random AWS blog translation attempt.
+
+* **Thursday (11/09/2025):**
+
+   - Learned about **VPC (Virtual Private Cloud)** and its fundamental components:
+
+       + **Subnet**.
+     
+       + **Route Table**.
+     
+       + **Security Group**.
+     
+   - Watched and took notes on **AWS Lab 1** about network configuration.
+
+* **Friday (12/09/2025):**
+
+   - Continued learning about **Cloud Computing** through YouTube.
+
+   - Understanding of cloud infrastructure operations and AWS benefits.

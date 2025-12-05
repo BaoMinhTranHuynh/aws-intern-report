@@ -18,40 +18,44 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Study at the office. <br> - Review the project folder and components. | 10/11/2025 | 10/11/2025 | |
+| 3 | - Investigate configurations and technologies used in each service. | 11/11/2025 | 11/11/2025 | |
+| 4 | - Understand how data flows through the system and service interactions. | 12/11/2025 | 12/11/2025 | |
+| 5 | - Validate connections, permissions, and dependencies between services. | 13/11/2025 | 13/11/2025 | |
+| 6 | - Document unclear parts and create questions for further discussion. | 14/11/2025 | 14/11/2025 | |
+| 7 | - Attend AWS Cloud Mastery Series #1: AI/ML/GenAI on AWS at the office. | 14/11/2025 | 14/11/2025 | |
 ### Week 10 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Monday (November 10, 2025):**
 
-* Successfully created and configured an AWS Free Tier account.
+- Worked at the office as planned.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+- Reviewed the project's overall structure, clarifying main components and directory layout.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* **Tuesday (November 11, 2025):**
 
-* Used AWS CLI to perform basic operations such as:
+- Conducted a detailed analysis of the cloud services currently integrated into the system.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+- Documented the function of each service to aid future analysis and expansion.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Wednesday (November 12, 2025):**
+
+- Researched the data flow and general operation of the system.
+
+- Understood the mechanism of communication and logic processing between modules.
+
+* **Thursday (November 13, 2025):**
+
+- Verified the interconnections and dependencies between services.
+
+- Identified bottlenecks and areas for optimization in the connection workflow.
+
+* **Friday (November 14, 2025):**
+
+- Completed the summary and conclusion of all findings during the week.
+
+- Highlighted areas of ambiguous knowledge for clarification in the next week.  
+
+* **Saturday (November 15, 2025):**
+
+- Attended the AWS Cloud Mastery Series #1 : AI/ML/GenAI on AWS seminar.

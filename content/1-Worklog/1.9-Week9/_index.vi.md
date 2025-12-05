@@ -18,42 +18,26 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| 2 | - Đọc kỹ toàn bộ yêu cầu của dự án. | 03/11/2025 | 03/11/2025 | |
+| 3 | - Phân tích lại sơ đồ kiến trúc hệ thống. | 04/11/2025 | 04/11/2025 | |
+| 4 | - Liệt kê tất cả dịch vụ cloud cần dùng trong triển khai. | 05/11/2025 | 05/11/2025 | |
+| 5 | - Xác định dịch vụ AWS phù hợp cho từng chức năng của dự án. | 06/11/2025 | 06/11/2025 | |
+| 6 | - Tổng hợp lại cấu trúc kỹ thuật hoàn chỉnh của dự án. | 07/11/2025 | 07/11/2025 | |
 
 ### Kết quả đạt được tuần 9:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (03/11/2025):**
+- Tiến hành đọc và phân tích tài liệu kỹ thuật của dự án.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* **Thứ Ba (04/11/2025):**  
+- Nghiên cứu sơ đồ kiến trúc và luồng xử lý của dự án.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Tư (05/11/2025):** 
+- Xác định các dịch vụ công nghệ cần thiết cho project.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* **Thứ Năm (06/11/2025):**
+- Thống kê số lượng và phạm vi ứng dụng của từng dịch vụ trong dự án.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
+* **Thứ Sáu (07/11/2025):**
+- Nắm bắt cấu trúc tổng thể và cách tổ chức các thành phần của dự án.
 

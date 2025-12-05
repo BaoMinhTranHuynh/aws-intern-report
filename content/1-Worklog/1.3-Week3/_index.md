@@ -18,40 +18,33 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| 2 | - Continue learning about AWS through YouTube resources. | 22/09/2025 | 22/09/2025 | |
+| 3 | - Try translating a second random blog to improve technical English reading skills. | 23/09/2025 | 23/09/2025 | Youtube: AWS Cloud Journey |
+| 4 | - Explore AWS Compute services. <br> - Learn about EC2 instance categories. <br> - Including: <br>  + Amazon EC2. <br>  + Amazon Lightsail. | 24/09/2025 | 24/09/2025 | https://aws.amazon.com/ec2/instance-types/?ncl=h_is/
+ |
+| 5 | - Study essential EC2 concepts:<br>  + Amazon EFS/FSx. <br>  + AWS Application Migration Service (MGN). | 25/09/2025 | 27/09/2025 | https://aws.amazon.com/ec2/instance-types/?ncl=h_is/
+ |
+| 6 | - Hands-on practice: <br>  + Launch an EC2 instance. <br>  + Set up a basic database. | 26/09/2025 | 28/09/2025 | |
 
 ### Week 3 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Monday (September 22, 2025):**  
+- Completed the study of fundamental AWS principles via video materials. 
+- Gained an overall picture of the main service categories.  
 
-* Successfully created and configured an AWS Free Tier account.
+* **Tuesday (September 23, 2025):**  
+ - Completed the trial translation of the second optional blog article.  
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* **Wednesday (September 24, 2025):**
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+- Conducted a technical analysis of Virtual Machines (VMs) in AWS.    
+- Delved into the Compute services group on AWS, including:+ Amazon EC2 (Elastic Cloud Compute).+ Amazon Lightsail (Simplified Virtual Server Solution).  
 
-* Used AWS CLI to perform basic operations such as:
+* **Thursday (September 25, 2025):** 
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+- Consolidated understanding of basic EC2 configurations.  
+- Learned the methodology for selecting the optimal virtual machine (instance) type.        + Amazon EFS/FSX (Managed File Systems).            + AWS Application Migration Service (Application Migration Tool).       →  Simultaneously distinguished between the various instance types of EC2.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Friday (September 26, 2025):**  
+
+ - Successfully completed the following practical exercises:       + Setting up an EC2 instance.        + Creating a database on AWS RDS.    + Mastered control operations within the AWS Management Console interface.

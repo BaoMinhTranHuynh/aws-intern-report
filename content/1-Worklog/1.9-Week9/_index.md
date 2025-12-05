@@ -18,40 +18,24 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Read all project requirements carefully. | 03/11/2025 | 03/11/2025 | |
+| 3 | - Analyze the system architecture diagram again. | 04/11/2025 | 04/11/2025 | |
+| 4 | - List out all cloud services needed for deployment. | 05/11/2025 | 05/11/2025 | |
+| 5 | - Decide which AWS services will be used for each feature. | 06/11/2025 | 06/11/2025 | |
+| 6 | - Summarize the complete technical structure of the project. | 07/11/2025 | 07/11/2025 | |
 ### Week 9 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Monday (November 3, 2025):**  
+  - Performed reading and analysis of the project's technical documentation.
 
-* Successfully created and configured an AWS Free Tier account.
+* **Tuesday (November 4, 2025):**
+-  Studied the project's architectural diagram and processing flow.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* **Wednesday (November 5, 2025):**
+- Identified the key technology services required by the project.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* **Thursday (November 6, 2025):** 
+- Cataloged the quantity and application scope of each service within the project.
 
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Friday (November 7, 2025):**
+- Understood the overall structure and component organization of the project.

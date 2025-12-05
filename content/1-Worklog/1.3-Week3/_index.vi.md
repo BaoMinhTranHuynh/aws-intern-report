@@ -18,42 +18,31 @@ pre: " <b> 1.3. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| 2 | - Tiếp tục học về AWS thông qua các video trên YouTube. | 22/09/2025 | 22/09/2025 | |
+| 3 | - Thử dịch bài blog ngẫu nhiên thứ hai để cải thiện kỹ năng hiểu tài liệu tiếng Anh. | 23/09/2025 | 23/09/2025 | Youtube: AWS Cloud Journey |
+| 4 | - Tìm hiểu về Compute trên AWS. <br> - Khám phá các loại EC2 Instance <br> - Bao gồm: <br>  + Amazon EC2. <br>  + Amazon Lightsail. | 24/09/2025 | 24/09/2025 | https://aws.amazon.com/ec2/instance-types/?ncl=h_is/
+ |
+| 5 | - Nắm các khái niệm nền tảng của EC2:<br>  + Amazon EFS/FSx. <br>  + AWS Application Migration Service (MGN). | 25/09/2025 | 27/09/2025 | https://aws.amazon.com/ec2/instance-types/?ncl=h_is/
+ |
+| 6 | - Thực hành: <br>  + Khởi tạo một EC2 instance. <br>  + Thiết lập một cơ sở dữ liệu đơn giản. | 26/09/2025 | 28/09/2025 | |
 
 ### Kết quả đạt được tuần 3:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ 2 (22/09/2025):**
+- Hoàn thành việc nghiên cứu các nguyên tắc cơ bản của AWS qua tài liệu video.      
+- Nắm được cái nhìn tổng quan về các danh mục dịch vụ quan trọng.  
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* **Thứ 3 (23/09/2025):**    
+* - Thử nghiệm dịch bài báo bất kỳ thứ 2.  
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ 4 (24/09/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Phân tích chi tiết về Máy ảo (Compute VM) trên AWS.-      
+- Nghiên cứu sâu về nhóm dịch vụ Tính toán (Compute) trên AWS, bao gồm:     + Amazon EC2 (Máy chủ đám mây linh hoạt). + Amazon Lightsail (Giải pháp máy chủ ảo đơn giản).  
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ 5 (25/09/2025):**    
+- Củng cố hiểu biết về các thiết lập cơ bản của EC2.      
+-  Nắm được phương pháp lựa chọn loại máy ảo (instance) thích hợp.+ Amazon EFS/FSX (Hệ thống tệp được quản lý). + AWS Application Migration Service (Công cụ di trú ứng dụng).→  Đồng thời phân loại được các kiểu mẫu instance (instance type) của EC2.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Thứ 6 (26/09/2025):**    
+   - Thực hành và hoàn thành thành công các tác vụ:+ Khởi tạo một EC2 instance. + Xây dựng một cơ sở dữ liệu trên AWS RDS.+ Làm chủ các thao tác điều khiển trên AWS Management Console.

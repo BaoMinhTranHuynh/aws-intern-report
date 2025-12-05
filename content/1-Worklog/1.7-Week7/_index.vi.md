@@ -18,42 +18,39 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Ôn lại Lab Module 01. <br> - Xem lại toàn bộ nội dung chuẩn bị cho thi giữa kỳ. | 20/10/2025 | 21/10/2025 | <Youtube: AWS Study Group> |
+| 3 | - Rà soát Module 01 và kiểm tra lại Lab 01. | 21/10/2025 | 21/10/2025 | <Youtube: AWS Study Group> |
+| 4 | - Ôn tập Module 02 và Lab 02 để chuẩn bị kiểm tra. | 22/10/2025 | 22/10/2025 | <Youtube: AWS Study Group> |
+| 5 | - Ôn lại Modules 03 & 04 và bài thực hành liên quan. <br> - Lên văn phòng để tập trung học. | 23/10/2025 | 25/10/2025 | <Youtube: AWS Study Group> |
+| 6 | - Ôn Modules 05 & 06 cùng các bài lab. <br> - Học tại văn phòng để củng cố kiến thức. | 24/10/2025 | 26/10/2025 | <Youtube: AWS Study Group> |
 
 
 ### Kết quả đạt được tuần 7:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (20/10/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Xem lại các Labs Module 1 để củng cố các kỹ năng thực tế về AWS.   
+- Bắt đầu giai đoạn ôn luyện cho kỳ thi giữa kỳ.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Ba (21/10/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Rà soát lại Module 1 và Labs 1.       
+-  Đạt được hiểu biết vững chắc hơn về các chủ đề cơ sở của AWS, bao gồm cơ sở hạ tầng toàn cầu và mô hình trách nhiệm chung.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ Tư (22/10/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+ - Xem lại Module 2 và Labs 2.    
+ - Thực hành các bài tập liên quan đến VPC, subnets, và các phiên bản EC2.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ Năm (23/10/2025):**
 
+- Học tập tại văn phòng.     
+- Ôn tập Modules 3 & 4 và Labs 3 & 4.     
+- Củng cố sự thành thạo với các khái niệm S3, EBS, và chiến lược Disaster Recovery.
+
+* **Thứ Sáu (24/10/2025):**
+
+ - Học tập tại văn phòng.       
+ -  Xem lại Module 5, 6 và Labs 5, 6. 
+ -  Hoàn tất việc tổng hợp kiến thức trọng tâm từ Module 1 đến 6 để sẵn sàng cho bài thi giữa kỳ.
 

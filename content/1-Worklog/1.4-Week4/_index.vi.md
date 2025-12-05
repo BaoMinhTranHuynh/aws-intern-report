@@ -18,42 +18,44 @@ pre: " <b> 1.4. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Đăng ký tài khoản AWS mới. <br> - Kích hoạt thành công $200 credits miễn phí. | 29/10/2025 | 29/10/2025 | https://us-east-2.console.aws.amazon.com/console/home?/
+|
+| 3 | - Thực hành các thao tác cơ bản trên AWS: <br>  + Khởi tạo EC2 Instance. <br>  + Tìm hiểu Billing & Cost Management. <br>  + Khám phá các dịch vụ Aurora và RDS. | 30/10/2025 | 01/10/2025 | https://us-east-2.console.aws.amazon.com/console/home?/
+ |
+| 4 | - Làm quen chi tiết hơn với EC2. <br> - Tiếp tục tìm hiểu Billing & Cost Management. <br> - Cài đặt và cấu hình AWS CLI để quản lý tài nguyên. | 01/10/2025 | 02/10/2025 | https://us-east-2.console.aws.amazon.com/console/home?/
+ |
+| 5 | - Nghiên cứu AWS Private Certificate Authority. <br> - Học cách quản lý cơ sở dữ liệu trên AWS. <br> - Dịch 3 bài blog kỹ thuật được giao. | 02/10/2025 | 02/10/2025 | https://us-east-2.console.aws.amazon.com/console/home?/
+|
+| 6 | - Học về AWS Lambda và Amazon Bedrock. <br> - Triển khai ứng dụng serverless cơ bản. <br> - Ôn lại thao tác trên Console & CLI. <br> - Đẩy project lên GitHub thành công. | 03/10/2025 | 05/10/2025 | https://us-east-2.console.aws.amazon.com/console/home?/
+ |
 ### Kết quả đạt được tuần 4:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ 2 (29/09/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Đã thiết lập tài khoản AWS Free Tier thành công.       
+- Hoàn tất nhận 200$ tín dụng miễn phí.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ 3 (30/09/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Khởi động và thực hiện các tác vụ quản lý cơ bản trên EC2 Instance. 
+- Làm quen với việc theo dõi chi phí thông qua Billing & Cost Management.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ 4 (01/10/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+- Thực hiện các bài lab nâng cao hơn với EC2.     
+- Phân tích và sử dụng các tính năng trong Billing and Cost Management. 
+-  Cài đặt và cấu hình AWS CLI (Giao diện dòng lệnh) để điều khiển tài nguyên.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ 5 (02/10/2025):**
 
+- Tìm hiểu về AWS Private Certificate Authority (Cơ quan cấp chứng chỉ riêng).   
+- Nắm bắt quy trình quản lý Database trong môi trường AWS.  
+- Hoàn thành việc dịch thuật 3 bài viết được chỉ định.
+
+* **Thứ 6 (03/10/2025):**
+
+- Nghiên cứu và thử nghiệm với AWS Lambda (Serverless) và Amazon Bedrock (AI Tạo sinh).      
+- Thực hiện triển khai thử nghiệm dịch vụ theo kiến trúc serverless. 
+- Thực hành các lệnh cơ bản trên cả Console & CLI.   
+- Tải lên thành công thư mục dự án lên Github.
 

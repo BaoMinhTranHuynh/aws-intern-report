@@ -18,42 +18,31 @@ pre: " <b> 1.8. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Ôn tập lý thuyết Module 01–02. | 27/10/2025 | 27/10/2025 | <Youtube: AWS Study Group> |
+| 3 | - Tiếp tục ôn lại lý thuyết Module 03–04. | 28/10/2025 | 29/10/2025 | <Youtube: AWS Study Group> |
+| 4 | - Rà soát nội dung lý thuyết Module 05–06. | 29/10/2025 | 29/10/2025 | <Youtube: AWS Study Group> |
+| 5 | - Tổng ôn toàn bộ lý thuyết 6 Modules để chuẩn bị thi. | 30/10/2025 | 30/10/2025 | <Youtube: AWS Study Group> |
+| 6 | - Lên văn phòng để làm bài thi giữa kỳ. | 31/10/2025 | 31/10/2025 | |
 ### Kết quả đạt được tuần 8:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (27/10/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Ôn tập chuyên sâu nội dung của Module 1–2.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Ba (28/10/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Ôn tập chuyên sâu nội dung của Module 3–4.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ Tư (29/10/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+- Ôn tập chuyên sâu nội dung của Module 5–6.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ Năm (30/10/2025):**
+
+- Hoàn tất việc hệ thống hóa toàn bộ kiến thức cốt lõi từ Module 1–6.
+
+* **Thứ Sáu (31/10/2025):**
+
+- Tham gia Bài kiểm tra giữa kỳ tại văn phòng.
 
 

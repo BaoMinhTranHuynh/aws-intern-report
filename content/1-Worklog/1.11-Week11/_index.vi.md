@@ -18,42 +18,32 @@ pre: " <b> 1.11. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Mon | - Tham gia sự kiện AWS Cloud Mastery Series #2: DevOps on AWS tại văn phòng. | 17/11/2025 | 17/11/2025 | |
+| Tue | - Xem lại các module được giao và xác định rõ yêu cầu phát triển. | 18/11/2025 | 18/11/2025 | |
+| Wed | - Bắt đầu lập trình các phần khởi tạo của dự án. | 19/11/2025 | 19/11/2025 | |
+| Thu | - Tham gia sự kiện AWS for SAP – Generative AI & SAP ABAP + Amazon Q Developer tại văn phòng. | 20/11/2025 | 20/11/2025 | |
+| Fri | - Tiếp tục lập trình và tối ưu lại những phần đã thực hiện. | 21/11/2025 | 21/11/2025 | |
 
 ### Kết quả đạt được tuần 11:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (17/11/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Tham gia buổi tọa đàm AWS Cloud Mastery Series #2 : DevOps on AWS.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Ba (18/11/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Nghiên cứu kỹ lưỡng các module mã nguồn được phân công từ người quản lý.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ Tư (19/11/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+- Chính thức bắt đầu viết code cho các thành phần đầu tiên.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ Năm (20/11/2025):**
+
+- Tham dự sự kiện AWS for SAP Using Generative AI & SAP ABAP capabilities and Amazon Q Developer.
+
+* **Thứ Sáu (21/11/2025):**
+
+- Tiếp tục tập trung vào việc phát triển mã nguồn cho các module được giao.
 
 

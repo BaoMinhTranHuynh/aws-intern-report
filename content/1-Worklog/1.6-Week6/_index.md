@@ -18,40 +18,38 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| 2 | - Watch Module 05 – Shared Responsibility Model. <br> - Learn the basics of AWS Identity and Access Management (IAM). | 13/10/2025 | 13/10/2025 | <Youtube: AWS Study Group> |
+| 3 | - Continue with Module 05: <br>  + IAM overview. <br>  + Amazon Cognito introduction. <br>  + AWS Organizations overview. | 14/10/2025 | 14/10/2025 | <Youtube: AWS Study Group> |
+| 4 | - Learn about AWS Identity Center. <br> - Explore AWS Key Management Service (KMS). <br> - Watch lessons on AWS Security Hub. | 15/10/2025 | 15/10/2025 | <Youtube: AWS Study Group> |
+| 5 | - Study at the office. <br> - Learn Module 06 – Database Concepts: <br>  + Amazon RDS & Amazon Aurora. <br>  + Amazon Redshift & ElastiCache. <br> - Review and refine translated blog content. | 16/10/2025 | 18/10/2025 | <Youtube: AWS Study Group> |
+| 6 | - Continue practicing with Module 06 lab exercises. <br> - Revise content from Modules 01–06 to prepare for the midterm assessment. | 18/10/2025 | 19/10/2025 | <Youtube: AWS Study Group> |
 
 ### Week 6 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Monday (October 13, 2025):**
 
-* Successfully created and configured an AWS Free Tier account.
+- Studied Module 5 on the Shared Responsibility Model.       
+-  Began introduction to Amazon Identity and Access Management (IAM).
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* **Tuesday (October 14, 2025):**
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+- Continued in-depth study of IAM. 
+-  Gained a basic understanding of Amazon Cognito (User Identity Management).
+- Approached AWS Organizations for multi-account management.
 
-* Used AWS CLI to perform basic operations such as:
+* **Wednesday (October 15, 2025):**
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+- Studied AWS Identity Center for centralized user access management.  
+- Learned about Amazon Key Management Service (KMS) – key creation and cryptographic coordination.     
+- Explored AWS Security Hub – the tool for assessing the cloud environment's security posture.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Thursday (October 16, 2025):**
+
+- Studied at the office.      
+- Studied Module 6.       
+- Conducted final quality checks on translated blogs.
+
+* **Friday (October 17, 2025):**
+
+- Continued completing labs for Module 6. 
+- Began systematizing core knowledge from Module 1-6 in preparation for the midterm exam.

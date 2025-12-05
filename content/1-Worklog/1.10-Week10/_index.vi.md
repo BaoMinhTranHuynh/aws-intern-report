@@ -18,42 +18,43 @@ pre: " <b> 1.10. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
+| 2 | - Học tập tại văn phòng. <br> - Xem lại cấu trúc thư mục và các thành phần của dự án. | 10/11/2025 | 10/11/2025 | |
+| 3 | - Tìm hiểu cấu hình và công nghệ được sử dụng trong từng service. | 11/11/2025 | 11/11/2025 | |
+| 4 | - Phân tích luồng dữ liệu và cách các service tương tác với nhau trong hệ thống. | 12/11/2025 | 12/11/2025 | |
+| 5 | - Kiểm tra sự liên kết, quyền truy cập và phụ thuộc giữa các service. | 13/11/2025 | 13/11/2025 | |
+| 6 | - Ghi chú lại những phần chưa rõ và chuẩn bị câu hỏi để trao đổi thêm. | 14/11/2025 | 14/11/2025 | |
+| 7 | - Tham gia sự kiện AWS Cloud Mastery Series #1: AI/ML/GenAI on AWS tại văn phòng. | 14/11/2025 | 14/11/2025 | |
 ### Kết quả đạt được tuần 10:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (10/11/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Làm việc tại văn phòng theo kế hoạch.
+- Rà soát lại cấu trúc tổng thể của project, làm rõ các thành phần chính và cách bố trí thư mục.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Ba (11/11/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Phân tích chi tiết các dịch vụ đám mây đang được sử dụng trong hệ thống.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+- Ghi chú vai trò của mỗi dịch vụ để dễ dàng cho việc phân tích và mở rộng sau này.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* **Thứ Tư (12/11/2025):**
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+- Nghiên cứu luồng xử lý dữ liệu và hoạt động chung của hệ thống.
 
+- Hiểu được cơ chế giao tiếp và xử lý thông tin giữa các module.
 
+* **Thứ Năm (13/11/2025):**
+
+- Kiểm tra mối liên kết và sự phụ thuộc giữa các dịch vụ.
+
+- Xác định các điểm nút và khu vực có thể tối ưu hóa trong quy trình kết nối.
+
+* **Thứ Sáu (14/11/2025):**
+
+- Tổng kết và đúc kết toàn bộ nội dung đã tìm hiểu trong tuần.
+
+- Đánh dấu các phần kiến thức còn chưa rõ để tiếp tục làm rõ trong tuần tới.  
+
+* **Thứ Bảy (15/11/2025):**
+
+- Tham gia buổi tọa đàm AWS Cloud Mastery Series #1 : AI/ML/GenAI on AWS.

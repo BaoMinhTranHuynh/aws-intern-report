@@ -26,33 +26,28 @@ pre: " <b> 1.12 </b> "
 
 ### Kết quả đạt được tuần 12:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Thứ Hai (24/11/2025):**
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+- Tiến hành triển khai mã nguồn cho các module đã được phân công.  
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thứ Ba (25/11/2025):**
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+- Tiếp tục phát triển code theo yêu cầu kỹ thuật của các module.  
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* **Thứ Tư (26/11/2025):**
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+- Gửi bản mã nguồn thô cho người quản lý kỹ thuật để rà soát, nhận phản hồi và bổ sung các chỉnh sửa cần thiết vào code.  
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* **Thứ Năm (27/11/2025):**
+
+- Thực hiện quy trình Kiểm thử (Testing) đối với các module đã hoàn thành việc phát triển.  
+
+* **Thứ Sáu (28/11/2025):**
+
+- Tiếp tục các bước Kiểm thử để đảm bảo chất lượng và tính ổn định của module.  
+
+* **Thứ Bảy (29/11/2025):**
+
+- Tham dự sự kiện AWS Cloud Mastery Series #3: Tập trung vào Trụ cột Bảo mật của AWS Well-Architected Framework tại văn phòng.
 
 
