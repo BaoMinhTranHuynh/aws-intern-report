@@ -14,113 +14,56 @@ pre: " <b> 4.1. </b> "
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+# EVENT REPORT: AI/ML/GenAI on AWS
 
-### Speakers
+&emsp;**Event:** AWS Cloud Mastery Series #1 : AI/ML/GenAI on AWS
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+&emsp;**Date:** Saturday, November 15, 2025.
 
-### Key Highlights
+&emsp;**Time:** 8:30 AM – 11:30 AM.
 
-#### Identifying the drawbacks of legacy application architecture
+&emsp;**Location:** AWS Vietnam Office, Bitexco Financial Tower, District 1, Ho Chi Minh City.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+&emsp;**Event Objective:** To provide foundational to advanced knowledge on AI/ML and Generative AI (GenAI) services on the Amazon Web Services (AWS) platform.
 
-#### Transitioning to modern application architecture – Microservices
+### 1. Welcome & Context (8:00 – 8:30 AM)
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+* The event kicked off with **participant registration** and **networking** among professionals and attendees.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+* An **overview of learning objectives** was provided, directing the content to focus on practical AWS tools.
 
-#### Domain-Driven Design (DDD)
+* An introduction to the **AI/ML landscape in Vietnam** highlighted key trends and major challenges in the region.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
 
-#### Event-Driven Architecture
+### 2. AWS AI/ML Platform Overview (8:30 – 10:00 AM)
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+This segment focused on **Amazon SageMaker**, the end-to-end Machine Learning (ML) platform from AWS:
 
-#### Compute Evolution
+* **ML Lifecycle:** Attendees learned about the crucial stages, from **data preparation and labeling** to efficient **model training, tuning, and deployment**.
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+* **Integrated MLOps:** Introduction to the built-in **MLOps capabilities** in SageMaker, which help automate and manage the model lifecycle in production environments.
 
-#### Amazon Q Developer
+* **Live Demo: SageMaker Studio:** A live demonstration of SageMaker's integrated development environment (IDE), illustrating how data scientists can work effectively on the platform.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
 
-### Key Takeaways
+### 10:00 – 10:15 AM | Coffee Break (15 minutes)
 
-#### Design Mindset
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+### 3. Generative AI (GenAI) with Amazon Bedrock (10:15 AM – 11:30 AM)
 
-#### Technical Architecture
+After the coffee break, the focus shifted to GenAI via **Amazon Bedrock**, the hub for Foundation Models (FMs):
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+* **Foundation Models:** Analysis and comparison of leading FMs like **Claude, Llama, and Titan**, along with guidance on selecting the appropriate model for specific tasks.
 
-#### Modernization Strategy
+* **Prompt Engineering:** Learning essential and advanced techniques, including **Chain-of-Thought reasoning** and **Few-shot learning** to optimize FM output.
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+* **Retrieval-Augmented Generation (RAG):** Introduction to the RAG architecture and the role of integrating a **Knowledge Base** to feed the FM proprietary information, enhancing accuracy.
 
-### Applying to Work
+* **Bedrock Agents & Guardrails:** Exploration of how **Bedrock Agents** enable the creation of automated multi-step workflows. Concurrently, learning about **Guardrails** to ensure **safety and content filtering** against harmful outputs.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+* **Live Demo:** A practical demonstration of **building a simple GenAI chatbot** using Bedrock components.
 
-### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+### 11:30 AM | Finish & Lunch
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+* Lunch Break (Self-arranged)
