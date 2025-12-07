@@ -1,10 +1,11 @@
-baseURL = "https://BaoMinhTranHuynh.github.io/aws-intern-report"
-pulishDir = "public"
-relativeURLs = true
-canonifyURLs = true
-
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+baseURL = "https://BaoMinhTranHuynh.github.io/aws-intern-report"
+pulishDir = "public"
+relativeURLs = false
+canonifyURLs = false 
+
+
 
 # For search functionality
 [outputs]
