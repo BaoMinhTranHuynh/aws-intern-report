@@ -31,7 +31,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 08/09/2025 to 08/12/2025
 
-![avatar](/images/avata.jpg)
+![avatar](/aws-intern-report/images/avata.jpg)
 
 
 ### Report Content
