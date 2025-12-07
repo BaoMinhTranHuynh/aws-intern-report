@@ -2,8 +2,8 @@
 theme = "hugo-theme-learn"
 baseURL = "https://BaoMinhTranHuynh.github.io/aws-intern-report"
 pulishDir = "public"
-relativeURLs = false
-canonifyURLs = false 
+relativeURLs = true
+canonifyURLs = true
 
 
 
