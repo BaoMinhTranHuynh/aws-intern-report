@@ -11,8 +11,7 @@ pre: " <b> 2. </b> "
 
 In this section, you need to summarize the contents of the workshop that you **plan** to conduct.
 
-# IoT Weather Platform for Lab Research
-## A Unified AWS Serverless Solution for Real-Time Weather Monitoring
+
 
 # Proposal – Smart Resume Analyzer
 _A Unified AWS Serverless solution to analyze CVs vs JDs and generate Fit Scores_

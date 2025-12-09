@@ -11,9 +11,8 @@ pre: " <b> 2. </b> "
 
 Tại phần này, bạn cần tóm tắt các nội dung trong workshop mà bạn **dự tính** sẽ làm.
 
-# IoT Weather Platform for Lab Research  
-## Giải pháp AWS Serverless hợp nhất cho giám sát thời tiết thời gian thực  
 
+# Proposal – Smart Resume Analyzer
 ### 1. Tóm tắt điều hành
 
 Smart Resume Analyzer là một nền tảng web serverless cho phép đánh giá mức độ phù hợp giữa CV của ứng viên và Job Description (JD). Hệ thống sẽ tạo ra Fit Score, phát hiện khoảng trống kỹ năng và đưa ra đề xuất học tập cá nhân hóa.
