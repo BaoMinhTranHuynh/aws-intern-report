@@ -1,47 +1,63 @@
 ---
-title: "Sharing and Feedback"
-
+title: "Feedback"
+date: "2025-10-06"
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
+> Here, you can freely share your personal opinions and experiences regarding the **First Cloud Journey** program. Your feedback helps the **FCJ team** identify areas for improvement based on the following categories:
 
 ### Overall Evaluation
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+**1. Working Environment**
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+The working environment is incredibly friendly and open. FCJ members are always willing to assist whenever I encounter difficulties, even outside of working hours. The workspace is tidy and comfortable, which aids my focus. However, I believe having more social gatherings or team bonding activities would be a great way to strengthen relationships within the team.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**2. Support from Mentor / Team Admin**
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+My mentor provides detailed guidance, explains concepts clearly, and always encourages questions. The admin team facilitates administrative tasks efficiently, provides necessary documentation, and creates favorable conditions for effective work. I especially appreciate that my mentor encourages me to solve problems independently before providing the answers.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**3. Relevance of Work to Academic Major**
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+The assigned tasks align well with my university coursework while introducing me to new areas I hadn't encountered before. This has allowed me to reinforce my foundational knowledge while gaining valuable practical skills.
 
----
+**4. Learning & Skill Development Opportunities**
+
+During the internship, I acquired numerous new skills, such as using project management tools, teamwork, and professional communication in a corporate setting. My mentor also shared valuable real-world insights that have helped me better plan my career path.
+
+**5. Company Culture & Team Spirit**
+
+The company culture is highly positive; everyone respects one another and maintains a professional yet enjoyable atmosphere. During urgent projects, the entire team collaborates and supports each other regardless of position. This made me feel like an integral part of the team, even as an intern.
+
+**6. Internship Policies / Benefits**
+
+The company provides an internship allowance and offers flexible working hours when needed. Additionally, the opportunity to participate in internal training sessions is a significant advantage.
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
 
----
+- What are you **most satisfied with** during your internship?
+
+  → The mentors and team admins were consistently supportive and approachable, making tasks much easier to understand and execute.
+
+- What do you think the company **should improve** for future interns?
+
+  → The onboarding process could be streamlined to help interns acclimate to the environment and their responsibilities more quickly.
+
+- If you were to **recommend this internship** to your friends, would you do so? Why?
+
+  → Yes. The working environment is supportive and friendly, offering excellent learning opportunities for both technical and soft skills.
 
 ### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+
+- Do you have any suggestions to improve the internship experience?
+
+  → No, I have nothing further to add. The experience has been perfect.
+
+- Would you like to continue with this program in the future?
+
+  → Yes. I would be delighted to join future programs if given the opportunity.
+
+- Other comments (feel free to share):
+
+  → Everything was well-organized, and the team was extremely helpful. Thank you for this experience.
