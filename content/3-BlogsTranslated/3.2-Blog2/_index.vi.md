@@ -12,7 +12,7 @@ pre: " <b> 3.2. </b> "
 
 Phần này sẽ liệt kê và giới thiệu bài blog mà tôi đã dịch.
 
-### Blog 3 - Mới ra mắt – AWS Systems Manager dành cho Quản lý Cấu hình SAP: Tự động xác thực các Thực tiễn Tốt nhất cho SAP HANA.
+### Blog 2 - Mới ra mắt – AWS Systems Manager dành cho Quản lý Cấu hình SAP: Tự động xác thực các Thực tiễn Tốt nhất cho SAP HANA.
 Blog này thông báo về sự ra mắt của AWS Systems Manager for SAP Configuration Management, một tính năng mới cho phép tự động xác thực cấu hình cơ sở dữ liệu SAP HANA dựa trên các thực tiễn tốt nhất của AWS (dựa trên SAP Lens of AWS Well-Architected Framework). Tính năng này giúp các quản trị viên SAP phát hiện lỗi cấu hình tiềm ẩn và đảm bảo hiệu năng, bảo mật, và độ tin cậy tối ưu cho khối lượng công việc SAP HANA chạy trên AWS.
 
 Tính năng Configuration Checks ban đầu tập trung vào ba hạng mục kiểm tra chính:
